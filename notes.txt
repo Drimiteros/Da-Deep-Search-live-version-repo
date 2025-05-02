@@ -1,5 +1,3 @@
-﻿Release Notes:
-
 - Features:
 	1)  [x]	Update avaiable drives list
 	2)  [x]	Update found files list after deleting them
