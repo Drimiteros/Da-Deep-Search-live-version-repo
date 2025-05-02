@@ -1,8 +1,7 @@
 - Features:
 	[x]  Update avaiable drives list on the fly
 	[x]  Dynamically update found files list after deleting them
-	[x]  Show file size
-	[x]  Show file name / path
+	[x]  Show file size / name / path / type
 	[x]  Make the window transparent and add round edges
 	[x]  Delete file option
 	[x]  Copy file path to clipboard option
