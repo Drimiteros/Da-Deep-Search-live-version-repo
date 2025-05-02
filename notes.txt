@@ -1,15 +1,15 @@
 - Features:
-	1)  [x]	Update avaiable drives list
-	2)  [x]	Update found files list after deleting them
-	3)  [x]	Show file size
-	4)  [x]	Show file name / path
-	5)  [x]  Make the window transparent and add round edges
-	6)  [x]	Delete file
-	7)  [x]	Copy file path to clipboard
-	8)  [x]  Auto-update the app
-	9)  [x]	Prevent the user from typing when searching	is underway
-	10) [x]	Fix "Unhandled exception error
+	[x]  Update avaiable drives list
+	[x]  Update found files list after deleting them
+	[x]  Show file size
+	[x]  Show file name / path
+	[x]  Make the window transparent and add round edges
+	[x]  Delete file
+	[x]  Copy file path to clipboard
+	[x]  Auto-update the app
+	[x]  Prevent the user from typing when searching is underway
+	[x]  Fix "Unhandled exception error
 
 - Bug fixes:
-	1) [x]	Fix selectbar drawing issue
-	2) [x]	Fix the window focus issue after summoning it
+	[x]  Fix selectbar drawing issue
+	[x]  Fix the window focus issue after summoning it
