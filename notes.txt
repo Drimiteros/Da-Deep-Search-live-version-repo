@@ -1,23 +1,16 @@
-﻿
-📝 Release Notes:
+﻿Release Notes:
 
-- Search enhancements:
-	1) [x]	Update avaiable drives
-	2) [x]	Update found files list after deleting them
-
-- UI improvements:
-	1) [x]	Show file size
-	2) [x]	Show file name / path
-	3) [x]  Make the window transparent and add round edges
-
-- Additional functionalities:
-	1) [x]	Delete file
-	2) [x]	Copy file path to clipboard
-	3) [x]  Auto-update the app
-
-- Code improvements:
-	1) [x]	Prevent the user from typing when searching	is underway
-	2) [x]	Fix "Unhandled exception error
+- Features:
+	1)  [x]	Update avaiable drives list
+	2)  [x]	Update found files list after deleting them
+	3)  [x]	Show file size
+	4)  [x]	Show file name / path
+	5)  [x]  Make the window transparent and add round edges
+	6)  [x]	Delete file
+	7)  [x]	Copy file path to clipboard
+	8)  [x]  Auto-update the app
+	9)  [x]	Prevent the user from typing when searching	is underway
+	10) [x]	Fix "Unhandled exception error
 
 - Bug fixes:
 	1) [x]	Fix selectbar drawing issue
