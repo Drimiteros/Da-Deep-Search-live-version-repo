@@ -11,7 +11,7 @@
 	[x]  Perform automatic search when the user types a keyword
 
 - Bug fixes:
-	[x]	 Show file icon
+	[x]  Show file icon
 	[x]  Fix selectbar drawing issue
 	[x]  Fix "Unhandled exception error
 	[x]  Fix the window focus issue after summoning it
