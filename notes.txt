@@ -1,0 +1,17 @@
+﻿- Features:
+	[x]  Update avaiable drives list on the fly
+	[x]  Dynamically update found files list after deleting them
+	[x]  Show file size / name / path / type
+	[x]  Make the window transparent and add round edges
+	[x]  Delete file option
+	[x]  Copy file path to clipboard option
+	[x]  Execute file option
+	[x]  Auto-update the app
+	[x]  Prevent the user from typing when searching is underway
+	[x]  Perform automatic search when the user types a keyword
+
+- Bug fixes:
+	[x]	 Show file icon
+	[x]  Fix selectbar drawing issue
+	[x]  Fix "Unhandled exception error
+	[x]  Fix the window focus issue after summoning it
