@@ -2,5 +2,6 @@
 	[x]  Added a Recents tab
 	
 - Bug fixes:
+	[x]  Fixed a bug that caused the app to apply updates falsely
 	[x]  Fixed frequent app crashes
 	[x]  Fixed problems with list scrolling
