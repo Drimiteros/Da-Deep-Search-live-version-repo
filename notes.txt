@@ -1,6 +1,6 @@
 NOTICE!
 Please, if you are using the version 4.2_2 or older and you want to update
-to a newer version, DON'T install the update from inside the app!
+to a newer version, DON'T install the update from inside the app (click ignore)!
 Delete it and re download the app, fresh from the website!
 
 - Features:
