@@ -1,16 +1,16 @@
-	NOTICE!
-	Please, if you are using the version 4.2_2 or older and you want to update
-	to a newer version, DON'T install the update from inside the app (click ignore)!
-	Delete it and re download the app, fresh from the website!
+NOTICE!
+Please, if you are using the version 4.2_2 or older and you want to update
+to a newer version, DON'T install the update from inside the app (click ignore)!
+Delete it and re download the app, fresh from the website!
 
-	- Features:
-  	[x]  	Added a dynamic caching system for significantly faster and more efficient search operations
-       		--about 86% faster than the version 4.2_3 and approximately 99.43% faster than the windows search! 
-       		Particularly beneficial for large or slower drives, with a trade-off of higher RAM usage. Delivers
-       		performance comparable to tools like Everything, while retaining wide file system compatibility.
-	
-	- Bug fixes:
-  	[x]  	Resolved an issue where the application could crash or glitch when the Recents tab attempted to 
-       		display a file that had been deleted.
-  	[x]  	Resolved a bug that caused the app to search for files in all the drives when the user had selected 
-       		a specific drive to search in.
+- Features:
+[x]  	Added a dynamic caching system for significantly faster and more efficient search operations
+	--about 86% faster than the version 4.2_3 and approximately 99.43% faster than the windows search! 
+	Particularly beneficial for large or slower drives, with a trade-off of higher RAM usage. Delivers
+	performance comparable to tools like Everything, while retaining wide file system compatibility.
+
+- Bug fixes:
+[x]	Resolved an issue where the application could crash or glitch when the Recents tab attempted to 
+	display a file that had been deleted.
+[x]  	Resolved a bug that caused the app to search for files in all the drives when the user had selected 
+	a specific drive to search in.
