@@ -9,5 +9,5 @@ the current search input is remembered. The next time you start typing something
 will be suggested—press TAB to autocomplete it.
 	
 - Bug fixes:
-[x]	Fixed an issue where the app didn’t properly update or remove entries in the recent files
+[x] Fixed an issue where the app didn’t properly update or remove entries in the recent files
 list when there were two files with the same name but stored in different locations.
