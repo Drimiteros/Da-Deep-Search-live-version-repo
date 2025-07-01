@@ -7,7 +7,7 @@ Delete it and re download the app, fresh from the website!
 [x] Added a cache counter
 	
 - Bug fixes:
-[x]	Resolved an issue where files located in directories requiring admin 
+[x] Resolved an issue where files located in directories requiring admin 
 privileges (e.g., C:/Program Files) were not being loaded. While the app can 
 now detect and list these files, full metadata access (such as file size,
 last modified date, and icon) still requires running the app with admin
