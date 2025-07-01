@@ -4,10 +4,11 @@ to a newer version, DON'T install the update from inside the app (click ignore)!
 Delete it and re download the app, fresh from the website!
 
 - Features:
-[x] Added an autocomplete feature to the search bar. When you search for and execute a file, 
-the current search input is remembered. The next time you start typing something similar, it 
-will be suggested. Press TAB to autocomplete it.
+[x] Added a cache counter
 	
 - Bug fixes:
-[x] Fixed an issue where the app didnt properly update or remove entries in the recent files
-list when there were two files with the same name but stored in different locations.
+[x]	Resolved an issue where files located in directories requiring admin 
+privileges (e.g., C:/Program Files) were not being loaded. While the app can 
+now detect and list these files, full metadata access (such as file size,
+last modified date, and icon) still requires running the app with admin
+privileges.
