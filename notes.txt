@@ -1,14 +1,10 @@
-NOTICE!
-Please, if you are using the version 4.2_2 or older and you want to update
-to a newer version, DON'T install the update from inside the app (click ignore)!
-Delete it and re download the app, fresh from the website!
-
 - Features:
-[x] Added a cache counter
-	
+[x] Added local network file sharing in beta version!
+[x] Added “Open in File Explorer” button for found files!
+[x] Added the ability to minimize the window by clicking outside it.
+
 - Bug fixes:
-[x] Resolved an issue where files located in directories requiring admin 
-privileges (e.g., C:/Program Files) were not being loaded. While the app can 
-now detect and list these files, full metadata access (such as file size,
-last modified date, and icon) still requires running the app with admin
-privileges.
+[x] Reduced general app crashes.
+[x] Fixed bug that allowed typing in the search bar during cache generation, causing a crash.
+[x] Improved detection of newly created or modified files while the app is open.
+[x] Fixed issue that allowed multiple instances of the app to run at the same time.
