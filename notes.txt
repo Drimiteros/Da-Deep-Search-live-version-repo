@@ -1,10 +1,8 @@
 - Features:
-[x] Added local network file sharing in beta version!
-[x] Added “Open in File Explorer” button for found files!
-[x] Added the ability to minimize the window by clicking outside it.
+[x] Improvement in some UI elements!
+[x] Improved loading times on start up.
 
 - Bug fixes:
-[x] Reduced general app crashes.
-[x] Fixed bug that allowed typing in the search bar during cache generation, causing a crash.
-[x] Improved detection of newly created or modified files while the app is open.
-[x] Fixed issue that allowed multiple instances of the app to run at the same time.
+[x] Fixed a UI bug at an edge case for file transfers.
+[x] Fixed bug that caused extensive memory occupation.
+[x] Fixed bug that allowed a ghost interaction with buttons that could cause a crash.
