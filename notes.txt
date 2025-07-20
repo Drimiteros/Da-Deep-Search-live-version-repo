@@ -1,7 +1,7 @@
 - Features:
-[x] Added an options tab. Allows for better UI & System costumization.
+[x] Added an options tab. Allows for better UI & System customization.
 [x] Added 3 new file search options. 
-[x] Improved memory allocation and dealocation.
+[x] Improved memory allocation and deallocation.
 
 - Bug fixes:
 [x] Fixed a window focus issue.
