@@ -1,8 +1,9 @@
 - Features:
-[x] Improvement in some UI elements!
-[x] Improved loading times on start up.
+[x] Added an options tab. Allows for better UI & System costumization.
+[x] Improved memory allocation and dealocation.
 
 - Bug fixes:
-[x] Fixed a UI bug at an edge case for file transfers.
-[x] Fixed bug that caused extensive memory occupation.
-[x] Fixed bug that allowed a ghost interaction with buttons that could cause a crash.
+[x] Fixed a window focus issue.
+[x] Fixed some edge cases, that lead to crashes, in the file transfer tab.
+[x] Fixed crashes due to bad memory handling.
+[x] Fixed crashing after typing something just after the window pops up.
