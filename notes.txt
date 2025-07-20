@@ -1,5 +1,6 @@
 - Features:
 [x] Added an options tab. Allows for better UI & System costumization.
+[x] Added 3 new file search options. 
 [x] Improved memory allocation and dealocation.
 
 - Bug fixes:
