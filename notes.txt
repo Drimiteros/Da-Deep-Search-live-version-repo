@@ -1,10 +1,5 @@
 - Features:
-[x] Added an options tab. Allows for better UI & System customization.
-[x] Added 3 new file search options. 
-[x] Improved memory allocation and deallocation.
+[x] Improved the window UI.
 
 - Bug fixes:
-[x] Fixed a window focus issue.
-[x] Fixed some edge cases, that lead to crashes, in the file transfer tab.
-[x] Fixed crashes due to bad memory handling.
-[x] Fixed crashing after typing something just after the window pops up.
+[x] Fixed an issue that caused the app to not get pass the cache generation message.
